@@ -1,0 +1,28 @@
+{
+  "name": "sadovojav/yii2-ckeditor",
+  "description": "Yii2 CKEditor",
+  "version": "1.0.0",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii",
+    "wysiwyg",
+    "editor",
+    "CKEditor"
+  ],
+  "authors": [
+    {
+      "name": "Aleksandr Sadovoj",
+      "email": "sadovojav@gmail.com",
+      "homepage": "https://github.com/sadovojav"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "sadovojav\\ckeditor\\": ""
+    }
+  }
+}
