@@ -46,7 +46,7 @@ echo $form->field($post, 'text_full')->widget(CKEditor::className());
 - array `extraPlugins` - Extra plugins connection
 - string `initOnEvent ` =  `false` - Event type for initialization
 
-### Example
+##### Example
 
 ```php
 echo $form->field($post, 'text_full')->widget(CKEditor::className(), [
