@@ -113,7 +113,3 @@ Without space after comma.
 - Mouse event - https://api.jquery.com/category/events/mouse-events/
 - CKEditor Api - http://docs.ckeditor.com/
 - File manager ElFinder - https://github.com/MihailDev/yii2-elfinder
-
-## Author
-
-[Aleksandr Sadovoj](https://github.com/sadovojav/), e-mail: [sadovojav@gmail.com](mailto:sadovojav@gmail.com)
